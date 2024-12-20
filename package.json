@@ -1,0 +1,26 @@
+{
+  "name": "adventjs-2024",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "tsc && node dist/index.js ",
+    "day1": "node dist/day1",
+    "day2": "node dist/day2",
+    "day3": "node dist/day3",
+    "day4": "node dist/day4",
+    "day5": "tsc && node dist/day5",
+    "day6": "tsc && node dist/day6",
+    "day7": "tsc && node dist/day7"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "typescript": "^5.7.2"
+  },
+  "dependencies": {
+    "inquirer": "^12.2.0"
+  }
+}
