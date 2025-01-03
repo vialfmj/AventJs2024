@@ -12,7 +12,8 @@
     "day4": "node dist/day4",
     "day5": "tsc && node dist/day5",
     "day6": "tsc && node dist/day6",
-    "day7": "tsc && node dist/day7"
+    "day7": "tsc && node dist/day7",
+    "day8": "tsc && node dist/day8"
   },
   "keywords": [],
   "author": "",

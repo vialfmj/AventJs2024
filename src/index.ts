@@ -9,6 +9,7 @@ const commands: { [key: string]: string } = {
   day5: "npm run day5",
   day6: "npm run day6",
   day7: "npm run day7",
+  day8: "npm run day8",
 };
 
 inquirer
